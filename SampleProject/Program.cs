@@ -8,7 +8,7 @@ namespace SampleProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from master.");
+            Console.WriteLine("Hello from master revision 1.");
         }
     }
 }
