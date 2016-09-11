@@ -8,7 +8,7 @@ namespace SampleProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from branch 1.");
+            Console.WriteLine("Hello from branch 2.");
         }
     }
 }
